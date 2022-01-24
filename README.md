@@ -14,5 +14,5 @@ python converter.py
 
 <p>1- enter your image name like sec.png or path image like E:\image-to-text\sec.png </p>
 <p>2- enter char like # or * or % or ^  etc </p>
-3- Enter the name of the file in which you want to save the shape
-4- Open the file you entered and copy the text from it and put it in your code
+<p>3- Enter the name of the file in which you want to save the shape</p>
+<p>4- Open the file you entered and copy the text from it and put it in your python code</p>
